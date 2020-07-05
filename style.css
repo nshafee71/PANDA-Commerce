@@ -1,8 +1,13 @@
 body {
     margin: 0;
+    background-color: #57606f;
+}
+.container {
+    margin-bottom: 100px;
 }
 .orange-bg {
     background-color: #fceae8;
+    border-radius: 15px;
 }
 .carousel-item {
     padding: 20px 40px;
