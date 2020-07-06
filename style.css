@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: #57606f;
+    background-color: #dfe6e9;
 }
 .container {
     margin-bottom: 100px;
@@ -22,4 +22,20 @@ body {
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+.cat1, .cat2, .cat3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1 {
+    background-color: #f39c12;
+}
+.cat2 {
+    background-color: #fd79a8;
+}
+.cat3 {
+    background-color: #74b9ff;
+}.categories h1 {
+    color: #fff;
+    width: 100px;
 }
