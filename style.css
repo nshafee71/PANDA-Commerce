@@ -56,6 +56,9 @@ body {
 .sub {
     margin-top: 5px;
 }
+.submit {
+    text-align: center;
+}
 .foot {
     text-align: center;
 }
